@@ -110,6 +110,14 @@ We will control the battlefield at the end of the engagement, ensuring access to
                     <forceRole>ARTILLERY</forceRole>
                     <forceRole>FIRE_SUPPORT</forceRole>
                     <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>SR_FIRE_SUPPORT</forceRole>
+                    <forceRole>SR_FIRE_SUPPORT</forceRole>
+                    <forceRole>SR_FIRE_SUPPORT</forceRole>
+                    <forceRole>SR_FIRE_SUPPORT</forceRole>
                     <forceRole>SR_FIRE_SUPPORT</forceRole>
                     <forceRole>SR_FIRE_SUPPORT</forceRole>
                 </roleChoices>

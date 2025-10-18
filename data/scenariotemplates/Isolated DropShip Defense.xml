@@ -109,6 +109,14 @@ The enemy will control the field at the end of the engagement, meaning no salvag
                     <forceRole>ARTILLERY</forceRole>
                     <forceRole>FIRE_SUPPORT</forceRole>
                     <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>FIRE_SUPPORT</forceRole>
+                    <forceRole>SR_FIRE_SUPPORT</forceRole>
+                    <forceRole>SR_FIRE_SUPPORT</forceRole>
+                    <forceRole>SR_FIRE_SUPPORT</forceRole>
+                    <forceRole>SR_FIRE_SUPPORT</forceRole>
                     <forceRole>SR_FIRE_SUPPORT</forceRole>
                     <forceRole>SR_FIRE_SUPPORT</forceRole>
                 </roleChoices>
