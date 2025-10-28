@@ -22,7 +22,7 @@ model:R/H3L-3X
 Config:Tripod
 techbase:Mixed (IS Chassis)
 era:3136
-source:XTR: RISC
+source:XTR:RISC
 rules level:4
 role:Sniper
 

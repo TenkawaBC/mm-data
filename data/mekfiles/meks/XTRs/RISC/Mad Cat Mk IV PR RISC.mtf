@@ -23,7 +23,7 @@ model:RISC
 Config:Biped
 techbase:Mixed (Clan Chassis)
 era:3134
-source:XTR: RISC
+source:XTR:RISC
 rules level:4
 role:Brawler
 

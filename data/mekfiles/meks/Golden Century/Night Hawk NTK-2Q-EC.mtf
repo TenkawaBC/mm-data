@@ -22,7 +22,7 @@ mul id:7676
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:2819
-source:TRO: Golden Century
+source:TR:GC
 rules level:4
 role:Striker
 
@@ -170,5 +170,5 @@ Foot Actuator
 -Empty-
 -Empty-
 
-history:A prototype ER medium laser improved the range of the older pulse model, while an additional half ton of armor offered additional protection for aggressive Jaguar warriors. 
+history:A prototype ER medium laser improved the range of the older pulse model, while an additional half ton of armor offered additional protection for aggressive Jaguar warriors.
 

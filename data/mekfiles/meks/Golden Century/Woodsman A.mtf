@@ -22,7 +22,7 @@ mul id:3586
 Config:Biped Omnimech
 techbase:Clan
 era:2866
-source:TRO: Golden Century
+source:TR:GC
 rules level:2
 role:Sniper
 
@@ -173,7 +173,7 @@ Clan Endo Steel
 -Empty-
 
 overview:The first heavy OmniMech developed by Clan Wolf, the Woodsman was one of the most heavily tested weapons ever produced by the Clan.
- 
+
 capabilities:Heavy armor provided excellent protection, while a standard fusion engine improved longevity on the battlefield. The light Endo Steel chassis allowed the Woodsman to devote 27 tons to pod space, allowing many mission specific loadouts and prototype weapon configurations. The permanently installed MASC system allowed a pilot to briefly exceed 80 km/h to either withdraw or capitalize on breaches in enemy ranks. The Woodsman was so versatile that it was often used by Wolf scientists to test new weapons and weapon configurations. The Naga's dual Arrow IV launcher configuration, for example, was tested on the Woodsman chassis.
 
 deployment:The most common alternate configuration in the Woodsman's long career mounted two ER PPCs, two Medium Pulse Lasers, and a Large Pulse Laser and ER Small Laser for backup. It keeps the same number of double heat sinks as the primary configuration, but relocates them across the torso.

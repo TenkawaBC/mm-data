@@ -23,7 +23,7 @@ mul id:495
 Config:Biped Omnimech
 TechBase:Clan
 Era:3062
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:2
 role:Skirmisher
 
@@ -172,7 +172,7 @@ Clan Endo Steel
 -Empty-
 -Empty-
 
-overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. 
+overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien.
 
 capabilities:The H variant returns to the Ultra Autocannon/20 of the A, though it strips out all of the other weapons. They are replaced by a Heavy Large Laser, a pair of Heavy Medium Lasers, and a single Medium Pulse Laser. All of these weapons are tied to an advanced targeting computer. Even though this variant mounts additional heat sinks, an inexperienced MechWarrior could still be overwhelmed by the amount of heat this variant can produce.
 

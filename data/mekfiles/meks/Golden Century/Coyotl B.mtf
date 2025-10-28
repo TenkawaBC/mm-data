@@ -22,7 +22,7 @@ mul id:7606
 Config:Biped Omnimech
 techbase:Clan
 era:2854
-source:TRO: Golden Century
+source:TR:GC
 rules level:2
 role:Striker
 
@@ -169,7 +169,7 @@ Foot Actuator
 -Empty-
 -Empty-
 
-overview:The Coyotl has the honor of being the first OmniMech. 
+overview:The Coyotl has the honor of being the first OmniMech.
 
 capabilities:Built on an endo steel chassis and powered by a Pitban 280 XL engine, these lightweight technologies allowed the Coyotl to carry a great deal of equipment. The powerful engine allowed the 'Mech to move up to 118.8 km/h, giving it the ability to avoid enemy fire as well as dash about the battlefield
 

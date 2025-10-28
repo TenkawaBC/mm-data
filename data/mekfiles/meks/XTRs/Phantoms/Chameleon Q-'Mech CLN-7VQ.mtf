@@ -16,13 +16,13 @@
 # affiliated with Microsoft.
 
 chassis:Chameleon
-model:CLN-7VQ 'Q-'Mech' 
+model:CLN-7VQ 'Q-'Mech'
 mul id:5601
 
 Config:Biped
 TechBase:Mixed (IS Chassis)
 Era:3071
-Source:XTR: Phantoms
+Source:XTR:Phantoms
 Rules Level:4
 role:Striker
 
@@ -172,7 +172,7 @@ Jump Jet
 -Empty-
 -Empty-
 
-overview:Since the Terran Hegemony introduced it in 2510, the Chameleon has been the premiere training BattleMech for light- and medium-BattleMech MechWarriors. 
+overview:Since the Terran Hegemony introduced it in 2510, the Chameleon has been the premiere training BattleMech for light- and medium-BattleMech MechWarriors.
 
 capabilities:The Chameleon was designed to help a new MechWarrior master the skills of maneuvering and heat management, with a top speed of 97.2 km/h and a jumping distance of 180 meters. The 'Mech also had an almost all energy weapons loadout, but cooled only by 10 single heat sinks; this paucity of freezers forces MechWarriors to concentrate on the 'Mech's heat levels.
 

@@ -23,7 +23,7 @@ mul id:1929
 Config:Biped Omnimech
 techbase:Clan
 era:2926
-source:TRO: Clan Invasion
+source:TR:CI
 rules level:2
 role:Striker
 
@@ -177,7 +177,7 @@ ISAntiPersonnelPod (OMNIPOD)
 -Empty-
 -Empty-
 
-overview:The Hellbringer is a very widespread design developed by Clan Hell's Horses. However, due to its poor armor, the Hellbringer is often passed over for more robust OmniMechs. 
+overview:The Hellbringer is a very widespread design developed by Clan Hell's Horses. However, due to its poor armor, the Hellbringer is often passed over for more robust OmniMechs.
 
 capabilities:Though the sheer amount of equipment is greatly confusing, comparing the 'Mech to those at the time of the Exodus, the Hellbringer Prime bears similarities in design and appearance to the classic Warhammer. The primary weapons are indeed a pair of ER PPCs. As the Hellbringer draws closer to its target, it can bring its smaller and less heat-intensive short-range weapons to bear on the target, with three ER Medium Lasers and a Streak SRM-6 missile rack. The 'Mech is more than capable of handling infantry, with a pair of Machine Guns, and two Anti-Personnel Pods on each leg. An advanced Targeting Computer gives the energy weapons lethal accuracy, and an Active Probe and ECM Suite help to minimize any tactical advantage the enemy may have. To help increase battle longevity
 

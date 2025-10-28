@@ -23,7 +23,7 @@ mul id:1054
 Config:Biped Omnimech
 TechBase:Clan
 Era:3077
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:4
 role:Striker
 

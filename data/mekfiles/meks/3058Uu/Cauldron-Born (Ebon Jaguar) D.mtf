@@ -23,7 +23,7 @@ mul id:493
 Config:Biped Omnimech
 TechBase:Clan
 Era:3059
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:2
 role:Skirmisher
 
@@ -172,7 +172,7 @@ Clan Endo Steel
 -Empty-
 -Empty-
 
-overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. 
+overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien.
 
 capabilities:Intended as something of a medium-range brawler, the Cauldron-Born D features a pair of Ultra Autocannon/10s and an ER Large Laser. These are supplemented by a pair of ER Medium Lasers. Though the energy weapons appear primarily as backups, the less-than-ample ammunition bins ensure they will see a great deal of use.
 

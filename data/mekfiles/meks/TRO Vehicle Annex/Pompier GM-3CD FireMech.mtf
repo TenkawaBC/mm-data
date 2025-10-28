@@ -16,13 +16,13 @@
 # affiliated with Microsoft.
 
 chassis:Pompier
-model:GM-3CD Firemech 
+model:GM-3CD Firemech
 mul id:4843
 
 Config:Biped
 TechBase:Inner Sphere
 Era:3062
-Source:TRO: Vehicle Annex (Revised)
+Source:TR:VAr
 Rules Level:3
 
 Mass:15

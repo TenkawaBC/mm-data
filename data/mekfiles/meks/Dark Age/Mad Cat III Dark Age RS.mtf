@@ -23,7 +23,7 @@ Config:Biped
 TechBase:Clan
 Era:3132
 Rules Level:2
-source:TRO: Dark Age
+source:TR:DA
 
 quirk:bad_rep_clan
 quirk:difficult_maintain

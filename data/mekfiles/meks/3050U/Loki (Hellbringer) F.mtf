@@ -23,7 +23,7 @@ mul id:5489
 Config:Biped Omnimech
 TechBase:Clan
 Era:3054
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:2
 role:Striker
 
@@ -174,7 +174,7 @@ Foot Actuator
 -Empty-
 -Empty-
 
-overview:The Hellbringer is a very widespread design developed by Clan Hell's Horses. However, due to its poor armor, the Hellbringer is often passed over for more robust OmniMechs. 
+overview:The Hellbringer is a very widespread design developed by Clan Hell's Horses. However, due to its poor armor, the Hellbringer is often passed over for more robust OmniMechs.
 
 capabilities:This variant carries a pair of LB 10-X's, one in each arm, supported by an ER Medium Laser. Another pair of ER Medium Lasers and a single SRM-6 launcher round out the weapons.
 

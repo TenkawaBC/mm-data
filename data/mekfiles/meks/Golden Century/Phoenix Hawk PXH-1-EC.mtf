@@ -22,7 +22,7 @@ mul id:7678
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:2819
-source:TRO: Golden Century
+source:TR:GC
 rules level:4
 role:Skirmisher
 
@@ -174,5 +174,5 @@ Foot Actuator
 -Empty-
 -Empty-
 
-history:Goliath Scorpion techs swapped the standard large laser for an improved version to compliment the twin prototype medium lasers also installed. However, the old double heat sinks struggled with the heat, but it was the lack of CASE for the anti-missile ammunition that became the real reason why this ‘Hawk disappeared from the Scorpion touman.   
+history:Goliath Scorpion techs swapped the standard large laser for an improved version to compliment the twin prototype medium lasers also installed. However, the old double heat sinks struggled with the heat, but it was the lack of CASE for the anti-missile ammunition that became the real reason why this ‘Hawk disappeared from the Scorpion touman.
 

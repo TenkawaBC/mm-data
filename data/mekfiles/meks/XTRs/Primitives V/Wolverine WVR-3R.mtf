@@ -22,7 +22,7 @@ mul id:7408
 Config:Biped
 techbase:Inner Sphere
 era:2490
-source:XTR: Primitives V
+source:XTR:Primitives V
 rules level:4
 role:Skirmisher
 
@@ -188,7 +188,7 @@ deployment:Entering production in 2490, the primitive 3R was built in response t
 history:A widespread part of every major military, the Wolverine has manufacturing plants scattered throughout the entire Inner Sphere. While certain states-notably the Free Worlds League-have larger numbers of the design, only the Capellans began facing a shortage of the Wolverine after the loss of their Nanking facilities.
 
 manufacturer:Norse BattleMech Works
-primaryfactory:Marduk 
+primaryfactory:Marduk
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown

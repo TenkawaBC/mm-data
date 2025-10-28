@@ -22,7 +22,7 @@ mul id:300
 Config:Biped
 TechBase:Inner Sphere
 Era:3064
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:2
 role:Brawler
 

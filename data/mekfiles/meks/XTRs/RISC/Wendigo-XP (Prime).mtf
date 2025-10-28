@@ -22,7 +22,7 @@ model:(Prime)
 Config:Biped OmniMek
 techbase:Mixed (Clan Chassis)
 era:3151
-source:XTR: RISC
+source:XTR:RISC
 rules level:5
 role:Brawler
 

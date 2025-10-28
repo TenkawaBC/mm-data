@@ -22,7 +22,7 @@ mul id:9505
 Config:Biped Omnimech
 techbase:Clan
 era:3085
-source:TRO: Jihad
+source:TR:J
 rules level:2
 role:Sniper
 
@@ -174,7 +174,7 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
-overview:The Deimos is a Clan Assault OmniMech, which was developed by Clan Snow Raven. 
+overview:The Deimos is a Clan Assault OmniMech, which was developed by Clan Snow Raven.
 
 capabilities:The 85-tonner is powered by a Type 255-rated Extralight Fusion Engine, which it shares with the second-line Assault 'Mech, the Omen. Fourteen Double Heat Sinks are fitted to mitigate any heat issues that the 'Mech's systems may generate. Because its top speed is slower than more typical OmniMechs of the same size, engineers installed a MASC system, which allows the Deimos to go marginally faster and keep up with comparable older designs. The 'Mech is protected by 14.5 tons of Standard Armor, where it again differs from more typical contemporaries. Aside from its 43-ton equipment capacity, the 'Mech has a few permanently mounted weapons. These include two ER Medium Lasers, one assigned to each of the 'Mech's side torsos. To provide protection from inbound missile fire, an Anti-Missile System is mounted in the Deimos' head. The single ton of ammunition for the AMS is located in the center torso.
 

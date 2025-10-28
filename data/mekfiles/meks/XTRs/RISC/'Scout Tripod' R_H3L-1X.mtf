@@ -22,7 +22,7 @@ model:R/H3L-1X
 Config:Tripod
 techbase:Mixed (IS Chassis)
 era:3132
-source:XTR: RISC
+source:XTR:RISC
 rules level:3
 role:Scout
 

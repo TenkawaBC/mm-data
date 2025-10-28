@@ -22,7 +22,7 @@ mul id:7685
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:2826
-source:TRO: Golden Century
+source:TR:GC
 rules level:4
 role:Sniper
 
@@ -169,5 +169,5 @@ Jump Jet
 -Empty-
 -Empty-
 
-history:Used by the Star Adders, the assault ’Mech was a mix of weapons technologies that included full Clan ER large lasers, prototype Streak launchers and LB-X autocannons, and SLDF-era medium pulse lasers. This version was soon abandoned for the more popular Highlander.  
+history:Used by the Star Adders, the assault ’Mech was a mix of weapons technologies that included full Clan ER large lasers, prototype Streak launchers and LB-X autocannons, and SLDF-era medium pulse lasers. This version was soon abandoned for the more popular Highlander.
 

@@ -23,7 +23,7 @@ mul id:492
 Config:Biped Omnimech
 TechBase:Clan
 Era:3049
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:2
 role:Missile Boat
 
@@ -173,7 +173,7 @@ Clan Endo Steel
 -Empty-
 -Empty-
 
-overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. 
+overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien.
 
 capabilities:The Cauldron-Born C is a missile boat and much easier on the heat curve than the other variants. Its primary weapons are a pair of LRM-15s and 25mm Ultra Autocannon/2s. Backing these up for short range work are a pair of SRM-6s. Though this variant carries no energy weapons, it does have ample supplies of ammunition that allow it to stay on the field for long periods of time.
 

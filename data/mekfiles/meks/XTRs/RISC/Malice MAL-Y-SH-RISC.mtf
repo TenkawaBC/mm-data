@@ -22,7 +22,7 @@ model:MAL-Y-SH-RISC
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3150
-source:XTR: RISC
+source:XTR:RISC
 rules level:4
 role:Sniper
 

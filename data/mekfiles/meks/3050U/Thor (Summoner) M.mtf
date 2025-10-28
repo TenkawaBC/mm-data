@@ -23,7 +23,7 @@ mul id:3182
 Config:Biped Omnimech
 TechBase:Clan
 Era:3051
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:2
 role:Sniper
 

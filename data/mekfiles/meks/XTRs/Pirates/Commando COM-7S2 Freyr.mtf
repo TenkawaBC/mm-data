@@ -24,7 +24,7 @@ TechBase:Mixed (IS Chassis)
 Era:3070
 Rules Level:4
 role:Striker
-Source:XTR: Pirates
+Source:XTR:Pirates
 
 quirk:low_profile
 quirk:exp_actuator
@@ -154,7 +154,7 @@ Foot Actuator
 Endo-Steel
 Endo-Steel
 
-overview:Created for the Lyran Commonwealth Armed Forces and one of the first 'Mechs ever designed for reconnaissance, the Commando was much lighter and faster than its precursors, though it still utilized primitive BattleMech technology. 
+overview:Created for the Lyran Commonwealth Armed Forces and one of the first 'Mechs ever designed for reconnaissance, the Commando was much lighter and faster than its precursors, though it still utilized primitive BattleMech technology.
 
 capabilities:With only four tons of armor to protect itself, the Commando is not meant to participate in a stand-up fight against heavier enemies, but it excels at hit-and-run tactics and as a scout hunter.
 

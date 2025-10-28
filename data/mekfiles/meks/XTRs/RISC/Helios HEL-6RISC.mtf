@@ -22,7 +22,7 @@ model:HEL-6RISC
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3136
-source:XTR: RISC
+source:XTR:RISC
 rules level:4
 role:Skirmisher
 

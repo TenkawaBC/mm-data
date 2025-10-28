@@ -15,14 +15,14 @@
 # <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
 # affiliated with Microsoft.
 
-chassis:Agrotera 
+chassis:Agrotera
 model:AGT-UA 'Ariel'
 mul id:8365
 
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3137
-source:XTR: Royal Fantasy
+source:XTR:Royal Fantasy
 rules level:3
 role:Striker
 

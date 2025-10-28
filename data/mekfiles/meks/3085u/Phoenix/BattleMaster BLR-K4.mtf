@@ -22,7 +22,7 @@ mul id:301
 Config:Biped
 techbase:Inner Sphere
 era:3073
-source:TRO: Clan Invasion
+source:TR:CI
 rules level:2
 role:Skirmisher
 

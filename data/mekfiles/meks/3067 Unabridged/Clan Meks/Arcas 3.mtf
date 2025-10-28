@@ -22,7 +22,7 @@ mul id:5686
 Config:Biped
 TechBase:Clan
 Era:3078
-Source:TRO: Jihad
+Source:TR:J
 Rules Level:2
 role:Skirmisher
 
@@ -169,7 +169,7 @@ Clan Improved Jump Jet
 -Empty-
 -Empty-
 
-overview: First produced in 3061, the Arcas is expensive for a second-line 'Mech. 
+overview: First produced in 3061, the Arcas is expensive for a second-line 'Mech.
 
 capabilities:It utilizes an XL Engine that enables it to move up to 86 km/h. The Arcas mounts thirteen and a half tons of standard armor, the most a 'Mech of its size can carry. This version carries a Targeting Computer to counteract the inaccuracy of its Heavy Large Laser. A Streak SRM-4 and pair of Medium Pulse Lasers rounds out the armament. Seven Improved Jump Jets allow the Arcas 3 to cover 210 meters in a single jump.
 

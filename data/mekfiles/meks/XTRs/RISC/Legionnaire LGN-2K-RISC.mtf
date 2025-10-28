@@ -22,7 +22,7 @@ model:LGN-2K-RISC
 Config:Biped
 techbase:Inner Sphere
 era:3148
-source:XTR: RISC
+source:XTR:RISC
 rules level:4
 role:Sniper
 

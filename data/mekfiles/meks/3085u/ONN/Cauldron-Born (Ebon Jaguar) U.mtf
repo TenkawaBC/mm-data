@@ -23,7 +23,7 @@ mul id:497
 Config:Biped Omnimech
 TechBase:Clan
 Era:3077
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:4
 role:Sniper
 
@@ -173,7 +173,7 @@ Clan Endo Steel
 -Empty-
 -Empty-
 
-overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. 
+overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien.
 
 capabilities:Intended for use underwater, this variant carries five experimental UMUs. Each arm carries a single Large Pulse Laser and ER Small Laser to capitalize on armor breaches inflicted by the pair of LRT-15s carried in the torso.
 

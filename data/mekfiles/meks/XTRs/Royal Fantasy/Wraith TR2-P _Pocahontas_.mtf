@@ -22,7 +22,7 @@ mul id:8381
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3130
-source:XTR: Royal Fantasy
+source:XTR:Royal Fantasy
 rules level:3
 role:Skirmisher
 
@@ -172,7 +172,7 @@ Clan Ferro-Lamellor
 -Empty-
 -Empty-
 
-overview:The Wraith is a 'Mech that, when properly employed, can wreak havoc on an enemy with its astounding speed and maneuverability. 
+overview:The Wraith is a 'Mech that, when properly employed, can wreak havoc on an enemy with its astounding speed and maneuverability.
 
 capabilities:It is built around a massive LTV 385 XL engine that allows it to reach speeds of just under 119 km/h. The 'Mech is also fitted with seven CurtissJet 55 jump jets which allow it to jump up to two hundred and ten meters, giving it the ability to outmaneuver most BattleMechs in existence, and also allowing the Wraith to quickly traverse any rough terrain. The 'Mech's speed, firepower, and decent armor make the Wraith a considerable threat to many 'Mechs – some being almost twice its weight.
 
@@ -184,7 +184,7 @@ manufacturer:Refit
 primaryfactory:Refit
 systemmanufacturer:CHASSIS:Curtiss Wraith
 systemmanufacturer:ENGINE:385 JF Extralight with MASC
-systemmanufacturer:ARMOR:385 JF Extralight 
+systemmanufacturer:ARMOR:385 JF Extralight
 systemmanufacturer:JUMPJET:CurtissJet 55
 systemmanufacturer:COMMUNICATIONS:CurtissComm Mk I
 systemmanufacturer:TARGETING:Dynatec 2780

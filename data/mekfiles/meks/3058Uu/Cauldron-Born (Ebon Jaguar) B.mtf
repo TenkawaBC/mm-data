@@ -23,7 +23,7 @@ mul id:491
 Config:Biped Omnimech
 TechBase:Clan
 Era:3049
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:2
 role:Sniper
 
@@ -174,7 +174,7 @@ Clan Endo Steel
 -Empty-
 -Empty-
 
-overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien. 
+overview:Introduced in 3049 to address flaws in the venerable Hellbringer, by Operation REVIVAL the Ebon Jaguar had only just started to spread through the Jaguar's touman with the Inner Sphere first encountering the design during the Battle of Luthien.
 
 capabilities:This variant, once called by a DCMS warrior the best forward observer ever built, uses an ER PPC and a Large Pulse Laser mounted in each arm. To supplement this, it carries a pair of Medium Pulse Lasers, as well as an Active Probe, and a TAG spotting laser. This variant is not as prone to overheating as the A, but a MechWarrior must use volley fire if he or she intends to use both the PPCs and Large Pulse Lasers.
 

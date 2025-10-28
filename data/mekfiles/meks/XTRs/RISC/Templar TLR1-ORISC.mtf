@@ -22,7 +22,7 @@ model:TLR1-ORISC
 Config:Biped OmniMek
 techbase:Inner Sphere
 era:3139
-source:XTR: RISC
+source:XTR:RISC
 rules level:4
 role:Brawler
 

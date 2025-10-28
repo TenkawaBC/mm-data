@@ -22,7 +22,7 @@ mul id:4363
 Config:Biped
 TechBase:Clan
 Era:3085
-Source:TRO: Prototypes
+Source:TR:Proto
 Rules Level:4
 role:Striker
 History:Handheld weapons NOT available in MegaMek so none are included.

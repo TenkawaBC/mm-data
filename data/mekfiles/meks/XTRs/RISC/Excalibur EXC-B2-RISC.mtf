@@ -22,7 +22,7 @@ model:EXC-B2-RISC
 Config:Biped
 techbase:Mixed (IS Chassis)
 era:3135
-source:XTR: RISC
+source:XTR:RISC
 rules level:4
 role:Sniper
 

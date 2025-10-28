@@ -22,7 +22,7 @@ mul id:1350
 Config:Biped
 TechBase:Inner Sphere
 Era:3078
-source:TRO: Clan Invasion
+source:TR:CI
 Rules Level:4
 role:Juggernaut
 

@@ -23,7 +23,7 @@ mul id:4265
 Config:Quad
 techbase:Inner Sphere
 era:2650
-source:TRO: Vehicle Annex (Revised)
+source:TR:VAr
 rules level:2
 role:Ambusher
 
@@ -166,5 +166,5 @@ Foot Actuator
 -Empty-
 -Empty-
 
-notes:Harvester Ant KIC-3M-B AgroMech MOD / KIC-3 (LRM) - Variant has two different designations in two separate products (TR:VA and H:OK)  
+notes:Harvester Ant KIC-3M-B AgroMech MOD / KIC-3 (LRM) - Variant has two different designations in two separate products (TR:VA and H:OK)
 

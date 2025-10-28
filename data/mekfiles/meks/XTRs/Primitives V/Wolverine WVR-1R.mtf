@@ -22,7 +22,7 @@ mul id:7406
 Config:Biped
 TechBase:Inner Sphere
 Era:2471
-Source:XTR: Primitives V
+Source:XTR:Primitives V
 Rules Level:4
 role:Skirmisher
 
@@ -184,7 +184,7 @@ deployment:Infamously nicknamed the "Varnay-1R", the original primitive Wolverin
 history:A widespread part of every major military, the Wolverine has manufacturing plants scattered throughout the entire Inner Sphere. While certain states-notably the Free Worlds League-have larger numbers of the design, only the Capellans began facing a shortage of the Wolverine after the loss of their Nanking facilities.
 
 manufacturer:Bordello Military Goods, Inc.,Nimakachi Fusion Products Limited,Norse BattleMech Works,McRae Quik Construct,Pesht Motors,Asuncion Industries
-primaryfactory:Antwerp,Lesnovo,Marduk,New Ivaarsen,Pesht,Sarna 
+primaryfactory:Antwerp,Lesnovo,Marduk,New Ivaarsen,Pesht,Sarna
 systemmanufacturer:CHASSIS:Unknown
 systemmanufacturer:ENGINE:Unknown
 systemmanufacturer:ARMOR:Unknown

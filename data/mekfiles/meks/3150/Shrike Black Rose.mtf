@@ -22,7 +22,7 @@ mul id:9215
 Config:Biped
 techbase:Clan
 era:3134
-source:TRO: Dark Age
+source:TR:DA
 rules level:3
 
 quirk:distracting

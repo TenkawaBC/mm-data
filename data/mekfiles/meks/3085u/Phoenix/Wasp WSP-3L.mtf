@@ -22,7 +22,7 @@ mul id:3527
 Config:Biped
 techbase:Inner Sphere
 era:3067
-source:TRO: Project Phoenix
+source:TR:PP
 rules level:2
 role:Scout
 
@@ -187,5 +187,5 @@ systemmanufacturer:CHASSIS:Hellespont Type W Endo Steel
 systemmanufacturer:ENGINE:Hermes 120
 systemmanufacturer:ARMOR:Hellespont Lite Stealth Annor
 systemmanufacturer:JUMPJET:Hellespont Leapers
-systemmanufacturer:COMMUNICATIONS:Hellespont Tight Beam 
+systemmanufacturer:COMMUNICATIONS:Hellespont Tight Beam
 systemmanufacturer:TARGETING:RadCom TXXI
