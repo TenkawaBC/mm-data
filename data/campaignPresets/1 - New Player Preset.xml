@@ -295,7 +295,9 @@
         <useRandomToughness>true</useRandomToughness>
         <useArtillery>false</useArtillery>
         <useAbilities>true</useAbilities>
-        <useCommanderAbilitiesOnly>false</useCommanderAbilitiesOnly>
+        <onlyCommandersMatterVehicles>true</onlyCommandersMatterVehicles>
+        <onlyCommandersMatterInfantry>true</onlyCommandersMatterInfantry>
+        <onlyCommandersMatterBattleArmor>true</onlyCommandersMatterBattleArmor>
         <useEdge>true</useEdge>
         <useSupportEdge>true</useSupportEdge>
         <useImplants>true</useImplants>
@@ -313,6 +315,7 @@
         <displayPatientRecord>false</displayPatientRecord>
         <displayAssignmentRecord>false</displayAssignmentRecord>
         <displayPerformanceRecord>false</displayPerformanceRecord>
+        <awardVeterancySPAs>true</awardVeterancySPAs>
         <rewardComingOfAgeAbilities>true</rewardComingOfAgeAbilities>
         <rewardComingOfAgeRPSkills>true</rewardComingOfAgeRPSkills>
         <useTimeInService>true</useTimeInService>
@@ -330,9 +333,12 @@
         <minimumHitsForVehicles>1</minimumHitsForVehicles>
         <useRandomHitsForVehicles>true</useRandomHitsForVehicles>
         <tougherHealing>false</tougherHealing>
+        <useAlternativeAdvancedMedical>false</useAlternativeAdvancedMedical>
         <maximumPatients>25</maximumPatients>
         <doctorsUseAdministration>true</doctorsUseAdministration>
         <useUsefulMedics>true</useUsefulMedics>
+        <useMASHTheatres>false</useMASHTheatres>
+        <mashTheatreCapacity>25</mashTheatreCapacity>
         <prisonerCaptureStyle>NONE</prisonerCaptureStyle>
         <useFunctionalEscapeArtist>true</useFunctionalEscapeArtist>
         <useRandomDependentAddition>true</useRandomDependentAddition>
@@ -607,6 +613,9 @@
         <autoResolveUseExperimentalPacarGui>true</autoResolveUseExperimentalPacarGui>
         <strategicViewTheme>gbc green.theme</strategicViewTheme>
         <phenotypeProbabilities>95,100,95,0,95,25</phenotypeProbabilities>
+        <isUseRiskySalvage>true</isUseRiskySalvage>
+        <isUseCamOpsSalvage>false</isUseCamOpsSalvage>
+        <isUseTwoWayPay>true</isUseTwoWayPay>
         <useAtB>true</useAtB>
         <useStratCon>true</useStratCon>
         <useAdvancedScouting>false</useAdvancedScouting>
