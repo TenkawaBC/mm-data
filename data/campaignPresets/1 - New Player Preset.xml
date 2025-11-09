@@ -334,6 +334,7 @@
         <useRandomHitsForVehicles>true</useRandomHitsForVehicles>
         <tougherHealing>false</tougherHealing>
         <useAlternativeAdvancedMedical>false</useAlternativeAdvancedMedical>
+        <useRandomDiseases>false</useRandomDiseases>
         <maximumPatients>25</maximumPatients>
         <doctorsUseAdministration>true</doctorsUseAdministration>
         <useUsefulMedics>true</useUsefulMedics>
