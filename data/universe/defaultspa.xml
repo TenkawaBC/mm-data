@@ -544,7 +544,7 @@
     <ability>
         <lookupName>flaw_in_for_life</lookupName>
         <displayName>In For Life (ATOW)</displayName>
-        <desc><![CDATA[-1 Edge, -1 Connections. Will never change origin faction.
+        <desc><![CDATA[-1 Edge, -1 Connections. Cannot change faction.
 
 While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-300</xpCost>
@@ -1513,36 +1513,43 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>compulsion_faction_pride</lookupName>
         <displayName>Trivial Compulsion - Overbearing Faction Pride (ATOW)</displayName>
-        <desc><![CDATA[Improve Loyalty by 1 if the character's faction matches the campaign faction. Otherwise, reduce Loyalty by 2.
+        <desc><![CDATA[Improve Loyalty by 1 if the character's faction matches the campaign faction. Otherwise, reduce Loyalty by 2. Cannot change faction.
 
 While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-100</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq />
+        <invalidAbilities>compulsion_faction_loyalty</invalidAbilities>
     </ability>
     <ability>
         <lookupName>compulsion_other_faction_dislike</lookupName>
-        <displayName>Trivial Compulsion - Dislikes Other Factions (ATOW)</displayName>
-        <desc><![CDATA[Roleplay only (for now)]]></desc>
+        <displayName>Trivial Compulsion - Distrusts Other Factions (ATOW)</displayName>
+        <desc><![CDATA[Decreases Loyalty by 1 if the campaign faction does not match the character's origin faction. Cannot change faction.
+
+While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-100</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq />
+        <invalidAbilities>compulsion_other_faction_hate</invalidAbilities>
     </ability>
     <ability>
         <lookupName>compulsion_parent_faction_dislike</lookupName>
-        <displayName>Trivial Compulsion - Dislikes Own Faction (ATOW)</displayName>
-        <desc><![CDATA[Roleplay only (for now)]]></desc>
+        <displayName>Trivial Compulsion - Distrusts Own Faction Leadership (ATOW)</displayName>
+        <desc><![CDATA[Decreases Loyalty by 1 if the campaign faction matches the character's origin faction.
+
+While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-100</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq />
+        <invalidAbilities>compulsion_parent_faction_hate</invalidAbilities>
     </ability>
     <ability>
         <lookupName>compulsion_inner_sphere_hate</lookupName>
         <displayName>Significant Compulsion - Hates the Inner Sphere (ATOW)</displayName>
-        <desc><![CDATA[Roleplay only (for now)]]></desc>
+        <desc><![CDATA[-2 Loyalty if the campaign faction is an Inner Sphere faction. Cannot change faction to a non-Clan faction.]]></desc>
         <xpCost>-200</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
@@ -1551,9 +1558,11 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>compulsion_clan_hate</lookupName>
         <displayName>Significant Compulsion - Hates the Clans/Aliens (ATOW)</displayName>
-        <desc><![CDATA[Roleplay only (for now).
+        <desc><![CDATA[-2 Loyalty if the campaign faction is a Clan faction. Cannot change faction to a Clan faction.
 
-If taken by an Inner Sphere character prior to the Clan Invasion, this SPA represents a fear of a mysterious threat from beyond the Periphery.]]></desc>
+If taken by an Inner Sphere character prior to the Clan Invasion, this SPA represents a fear of a mysterious threat from beyond the Periphery.
+
+While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-200</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
@@ -1584,7 +1593,31 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     <ability>
         <lookupName>compulsion_faction_loyalty</lookupName>
         <displayName>Significant Compulsion - Pathologic Faction Loyalty (ATOW)</displayName>
-        <desc><![CDATA[Improve Loyalty by 1 if the character's faction matches the campaign faction. Otherwise, reduce Loyalty by 4.
+        <desc><![CDATA[Improve Loyalty by 1 if the character's faction matches the campaign faction. Otherwise, reduce Loyalty by 4. Cannot change faction.
+
+While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
+        <xpCost>-200</xpCost>
+        <originOnly>false</originOnly>
+        <weight>1</weight>
+        <skillPrereq />
+        <invalidAbilities>compulsion_faction_pride</invalidAbilities>
+    </ability>
+    <ability>
+        <lookupName>compulsion_other_faction_hate</lookupName>
+        <displayName>Significant Compulsion - Hates Other Factions (ATOW)</displayName>
+        <desc><![CDATA[Decreases Loyalty by 2 if the campaign faction does not match the character's origin faction. Cannot change faction.
+
+While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
+        <xpCost>-200</xpCost>
+        <originOnly>false</originOnly>
+        <weight>1</weight>
+        <skillPrereq />
+        <invalidAbilities>compulsion_other_faction_dislike</invalidAbilities>
+    </ability>
+    <ability>
+        <lookupName>compulsion_merc_hate</lookupName>
+        <displayName>Significant Compulsion - Hates Mercenaries (ATOW)</displayName>
+        <desc><![CDATA[Decreases Loyalty by 2 if the campaign faction is a Mercenary faction. Cannot change faction to a Mercenary faction (can still come from a Mercenary faction).
 
 While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-200</xpCost>
@@ -1593,27 +1626,11 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <skillPrereq />
     </ability>
     <ability>
-        <lookupName>compulsion_other_faction_hate</lookupName>
-        <displayName>Significant Compulsion - Hates Other Factions (ATOW)</displayName>
-        <desc><![CDATA[Roleplay only (for now)]]></desc>
-        <xpCost>-200</xpCost>
-        <originOnly>false</originOnly>
-        <weight>1</weight>
-        <skillPrereq />
-    </ability>
-    <ability>
-        <lookupName>compulsion_merc_hate</lookupName>
-        <displayName>Significant Compulsion - Hates Mercenaries (ATOW)</displayName>
-        <desc><![CDATA[Roleplay only (for now)]]></desc>
-        <xpCost>-200</xpCost>
-        <originOnly>false</originOnly>
-        <weight>1</weight>
-        <skillPrereq />
-    </ability>
-    <ability>
         <lookupName>compulsion_pirate_hate</lookupName>
         <displayName>Significant Compulsion - Hates Pirates (ATOW)</displayName>
-        <desc><![CDATA[Roleplay only (for now)]]></desc>
+        <desc><![CDATA[Decreases Loyalty by 2 if the campaign faction is a Pirate faction. May not change faction to a Pirate faction (can still come from a Pirate faction).
+
+While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-200</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
@@ -1621,17 +1638,22 @@ While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
     </ability>
     <ability>
         <lookupName>compulsion_parent_faction_hate</lookupName>
-        <displayName>Significant Compulsion - Hates Own Faction (ATOW)</displayName>
-        <desc><![CDATA[Roleplay only (for now)]]></desc>
+        <displayName>Significant Compulsion - Hates Own Faction Leadership (ATOW)</displayName>
+        <desc><![CDATA[Decreases Loyalty by 2 if the campaign faction matches the character's origin faction.
+
+While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-200</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
         <skillPrereq />
+        <invalidAbilities>compulsion_parent_faction_dislike</invalidAbilities>
     </ability>
     <ability>
         <lookupName>compulsion_bionic_hate</lookupName>
         <displayName>Significant Compulsion - Hates Bionics (ATOW)</displayName>
-        <desc><![CDATA[Will refuse any prosthetic more complex than Type 2 (see ATOW for prosthetic type classifications). This has no effect if Advanced Medical's alternative mode is disabled.]]></desc>
+        <desc><![CDATA[Will refuse any prosthetic more complex than Type 2 (see ATOW for prosthetic type classifications). This has no effect if Advanced Medical's alternative mode is disabled.
+
+While this SPA does exist in ATOW, these effects are unique to MekHQ.]]></desc>
         <xpCost>-200</xpCost>
         <originOnly>false</originOnly>
         <weight>1</weight>
